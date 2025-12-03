@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bardoli Brain Battle - Preview</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        body {
+            background: linear-gradient(135deg, #1e293b 0%, #1e40af 50%, #1e293b 100%);
+            min-height: 100vh;
+            font-family: 'Inter', sans-serif;
+        }
+        .glass {
+            background: rgba(255, 255, 255, 0.1);
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(255, 255, 255, 0.2);
+        }
+        .countdown-item {
+            background: rgba(255, 255, 255, 0.1);
+            backdrop-filter: blur(12px);
+            border-radius: 12px;
+            padding: 16px;
+            min-width: 80px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div class="min-h-screen bg-gradient-to-br from-slate-900 via-blue-900 to-slate-800">
+        <!-- Hero Section -->
+        <section class="min-h-screen flex items-center justify-center relative overflow-hidden p-6">
+            <div class="absolute inset-0 bg-black/20"></div>
+            
+            <div class="container mx-auto text-center relative z-10">
+                <div class="space-y-8">
+                    <h1 class="text-6xl md:text-8xl font-black text-white leading-tight">
+                        BARDOLI
+                        <span class="block text-yellow-400 text-7xl md:text-9xl">
+                            BRAIN BATTLE
+                        </span>
+                    </h1>
+
+                    <p class="text-xl md:text-2xl text-white/90 font-medium max-w-3xl mx-auto">
+                        Where Local Knowledge Meets Global Thinking
+                    </p>
+
+                    <div class="glass rounded-2xl p-6 max-w-lg mx-auto">
+                        <div class="flex items-center justify-center gap-3 mb-4">
+                            <span class="text-yellow-400">📅</span>
+                            <span class="text-white font-semibold text-lg">
+                                13th July 2025 • Sunday
+                            </span>
+                        </div>
+                        <div class="flex items-center justify-center gap-3 text-white/80">
+                            <span class="text-yellow-400">🕐</span>
+                            <span>12:00 PM - 4:00 PM</span>
+                        </div>
+                    </div>
+
+                    <!-- Countdown Timer -->
+                    <div class="space-y-6">
+                        <div class="flex gap-4 justify-center items-center" id="countdown">
+                            <div class="countdown-item">
+                                <div class="text-2xl md:text-3xl font-bold text-yellow-400" id="days">20</div>
+                                <div class="text-xs uppercase text-white/80 font-medium">days</div>
+                            </div>
+                            <div class="countdown-item">
+                                <div class="text-2xl md:text-3xl font-bold text-yellow-400" id="hours">02</div>
+                                <div class="text-xs uppercase text-white/80 font-medium">hours</div>
+                            </div>
+                            <div class="countdown-item">
+                                <div class="text-2xl md:text-3xl font-bold text-yellow-400" id="minutes">15</div>
+                                <div class="text-xs uppercase text-white/80 font-medium">minutes</div>
+                            </div>
+                            <div class="countdown-item">
+                                <div class="text-2xl md:text-3xl font-bold text-yellow-400" id="seconds">30</div>
+                                <div class="text-xs uppercase text-white/80 font-medium">seconds</div>
+                            </div>
+                        </div>
+                        
+                        <div class="flex flex-col sm:flex-row gap-4 justify-center items-center">
+                            <a href="https://docs.google.com/forms/d/e/1FAIpQLSffos5IwfCU2Mn5YG10ehXWjUM5dbaZk2Gf4Pz_klfz4BIGcw/viewform?usp=dialog" 
+                               target="_blank"
+                               class="bg-yellow-400 hover:bg-yellow-300 text-blue-900 font-bold py-4 px-8 rounded-xl text-lg transition-all duration-300 transform hover:scale-105 shadow-2xl">
+                                🚀 REGISTER NOW
+                            </a>
+                            
+                            <button class="bg-white/10 backdrop-blur-md hover:bg-white/20 text-white font-bold py-4 px-8 rounded-xl text-lg border border-white/30 transition-all duration-300"
+                                    onclick="showQuizPreview()">
+                                🧠 Try Interactive Quiz
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Prize Section Preview -->
+        <section class="py-20 bg-white/5">
+            <div class="container mx-auto px-6">
+                <div class="text-center mb-16">
+                    <h2 class="text-5xl md:text-6xl font-black text-white mb-4">
+                        EPIC PRIZES
+                    </h2>
+                    <p class="text-xl text-white/80 max-w-2xl mx-auto">
+                        Compete for cash prizes and exclusive recognition
+                    </p>
+                </div>
+
+                <div class="grid md:grid-cols-3 gap-8 mb-12">
+                    <div class="bg-gradient-to-br from-yellow-500 to-yellow-600 p-8 rounded-2xl text-center shadow-2xl">
+                        <div class="text-6xl mb-4">🥇</div>
+                        <h3 class="text-2xl font-bold text-white mb-2">1st Place</h3>
+                        <p class="text-4xl font-black text-white">₹2,000</p>
+                    </div>
+                    <div class="bg-gradient-to-br from-gray-400 to-gray-500 p-8 rounded-2xl text-center shadow-2xl">
+                        <div class="text-6xl mb-4">🥈</div>
+                        <h3 class="text-2xl font-bold text-white mb-2">2nd Place</h3>
+                        <p class="text-4xl font-black text-white">₹1,500</p>
+                    </div>
+                    <div class="bg-gradient-to-br from-amber-600 to-amber-700 p-8 rounded-2xl text-center shadow-2xl">
+                        <div class="text-6xl mb-4">🥉</div>
+                        <h3 class="text-2xl font-bold text-white mb-2">3rd Place</h3>
+                        <p class="text-4xl font-black text-white">₹500</p>
+                    </div>
+                </div>
+
+                <div class="glass rounded-2xl p-8 max-w-4xl mx-auto">
+                    <h3 class="text-2xl font-bold text-yellow-400 mb-6 text-center">
+                        🎁 BONUS REWARDS
+                    </h3>
+                    <div class="grid md:grid-cols-2 gap-6">
+                        <div class="flex items-center gap-4">
+                            <span class="text-yellow-400 text-2xl">🎟️</span>
+                            <div>
+                                <h4 class="text-white font-semibold">Free Local Coupons</h4>
+                                <p class="text-white/70">For early registrants</p>
+                            </div>
+                        </div>
+                        <div class="flex items-center gap-4">
+                            <span class="text-yellow-400 text-2xl">📸</span>
+                            <div>
+                                <h4 class="text-white font-semibold">Instagram Feature</h4>
+                                <p class="text-white/70">Top 3 featured on @BardoliTown (80K+ followers)</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Contact Section -->
+        <section class="py-20 bg-gradient-to-r from-blue-900 to-slate-900">
+            <div class="container mx-auto px-6 text-center">
+                <h2 class="text-4xl md:text-5xl font-black text-white mb-8">
+                    CONTACT US
+                </h2>
+                
+                <div class="grid md:grid-cols-3 gap-6 max-w-4xl mx-auto">
+                    <a href="tel:+919327880168" 
+                       class="bg-green-500/20 hover:bg-green-500/30 border border-green-400/30 rounded-xl p-6 text-white transition-all duration-300 block">
+                        <div class="text-3xl mb-2">📞</div>
+                        <div class="font-semibold">Call Us</div>
+                        <div class="text-green-400">+91 93278 80168</div>
+                    </a>
+                    
+                    <a href="mailto:bardolitownquiz@gmail.com" 
+                       class="bg-blue-500/20 hover:bg-blue-500/30 border border-blue-400/30 rounded-xl p-6 text-white transition-all duration-300 block">
+                        <div class="text-3xl mb-2">📧</div>
+                        <div class="font-semibold">Email Us</div>
+                        <div class="text-blue-400">bardolitownquiz@gmail.com</div>
+                    </a>
+                    
+                    <a href="https://instagram.com/bardolitown" 
+                       target="_blank"
+                       class="bg-purple-500/20 hover:bg-purple-500/30 border border-purple-400/30 rounded-xl p-6 text-white transition-all duration-300 block">
+                        <div class="text-3xl mb-2">📱</div>
+                        <div class="font-semibold">Follow Us</div>
+                        <div class="text-purple-400">@bardolitown</div>
+                    </a>
+                </div>
+
+                <div class="mt-12">
+                    <p class="text-white/60 text-sm">
+                        © 2025 Bardoli Brain Battle. All rights reserved.
+                    </p>
+                </div>
+            </div>
+        </section>
+    </div>
+
+    <script>
+        // Simple countdown timer
+        function updateCountdown() {
+            const gameDate = new Date('2025-07-06T12:00:00').getTime();
+            const now = new Date().getTime();
+            const distance = gameDate - now;
+
+            const days = Math.floor(distance / (1000 * 60 * 60 * 24));
+            const hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+            const minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+            const seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+            document.getElementById('days').textContent = String(days).padStart(2, '0');
+            document.getElementById('hours').textContent = String(hours).padStart(2, '0');
+            document.getElementById('minutes').textContent = String(minutes).padStart(2, '0');
+            document.getElementById('seconds').textContent = String(seconds).padStart(2, '0');
+        }
+
+        // Update countdown every second
+        setInterval(updateCountdown, 1000);
+        updateCountdown(); // Initial call
+
+        // Quiz preview function
+        function showQuizPreview() {
+            alert('🧠 Interactive Quiz Features:\n\n✅ 5 Practice Questions about Bardoli\n✅ 30 seconds per question\n✅ Real-time scoring\n✅ Confetti celebrations for correct answers\n✅ Admin dashboard for question management\n\n🎯 This is a preview - the full interactive quiz is ready in your React application!');
+        }
+
+        // Add some interactive effects
+        document.addEventListener('mousemove', (e) => {
+            const x = e.clientX / window.innerWidth;
+            const y = e.clientY / window.innerHeight;
+            
+            document.body.style.background = `linear-gradient(${x * 360}deg, #1e293b 0%, #1e40af 50%, #1e293b 100%)`;
+        });
+    </script>
+</body>
+</html>
