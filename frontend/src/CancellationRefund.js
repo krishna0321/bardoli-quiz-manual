@@ -194,10 +194,10 @@ const CancellationRefund = () => {
                   <p className="text-white/80">
                     For any questions regarding this policy, please contact us at{' '}
                     <a 
-                      href="mailto:bardolitownquiz@gmail.com" 
+                      href="mailto:kemchhobardoliquiz@gmail.com" 
                       className="text-green-400 hover:text-green-300 underline font-semibold"
                     >
-                      bardolitownquiz@gmail.com
+                      kemchhobardoliquiz@gmail.com
                     </a>
                   </p>
                 </motion.div>

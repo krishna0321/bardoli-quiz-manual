@@ -296,7 +296,7 @@ const AboutUs = () => {
 
           <div className="grid md:grid-cols-4 gap-8">
             {[
-              { number: "80K+", label: "Instagram Followers", desc: "@bardolitown community" },
+              { number: "80K+", label: "Instagram Followers", desc: "@kemchhobardoli_ community" },
               { number: "500+", label: "Expected Participants", desc: "In our inaugural event" },
               { number: "₹4,000", label: "Prize Pool", desc: "Rewarding excellence" },
               { number: "100%", label: "Community Focus", desc: "Local pride, global thinking" }
@@ -336,7 +336,8 @@ const AboutUs = () => {
             
             <div className="flex flex-col sm:flex-row gap-6 justify-center items-center">
               <motion.a
-                href="https://instagram.com/bardolitown"
+                href="https://instagram.com/kemchhobardoli_
+"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="bg-gradient-to-r from-purple-500 to-pink-500 hover:from-purple-600 hover:to-pink-600 text-white font-bold py-4 px-8 rounded-xl text-lg transition-all duration-300 transform hover:scale-105 shadow-2xl flex items-center gap-3"
@@ -344,11 +345,11 @@ const AboutUs = () => {
                 whileTap={{ scale: 0.98 }}
               >
                 <Instagram size={24} />
-                Follow @bardolitown
+                Follow @kemchhobardoli_
               </motion.a>
               
               <motion.a
-                href="mailto:bardolitownquiz@gmail.com"
+                href="mailto:kemchhobardoliquiz@gmail.com"
                 className="bg-blue-500/20 backdrop-blur-md hover:bg-blue-500/30 text-white font-bold py-4 px-8 rounded-xl text-lg border border-blue-400/30 transition-all duration-300 flex items-center gap-3"
                 whileHover={{ y: -2 }}
                 whileTap={{ scale: 0.98 }}
@@ -357,7 +358,7 @@ const AboutUs = () => {
               </motion.a>
 
               <motion.a
-                href="tel:+919327880168"
+                href="tel:+919081643992"
                 className="bg-green-500/20 backdrop-blur-md hover:bg-green-500/30 text-white font-bold py-4 px-8 rounded-xl text-lg border border-green-400/30 transition-all duration-300 flex items-center gap-3"
                 whileHover={{ y: -2 }}
                 whileTap={{ scale: 0.98 }}
@@ -377,14 +378,14 @@ const AboutUs = () => {
               <div className="grid md:grid-cols-2 gap-4 text-center">
                 <div className="space-y-2">
                   <div className="text-yellow-400 font-semibold">📞 Phone</div>
-                  <a href="tel:+919327880168" className="text-white hover:text-yellow-400 transition-colors">
-                    +91 93278 80168
+                  <a href="tel:+919081643992" className="text-white hover:text-yellow-400 transition-colors">
+                    +91 90816 43992
                   </a>
                 </div>
                 <div className="space-y-2">
                   <div className="text-yellow-400 font-semibold">📧 Email</div>
-                  <a href="mailto:bardolitownquiz@gmail.com" className="text-white hover:text-yellow-400 transition-colors">
-                    bardolitownquiz@gmail.com
+                  <a href="mailto:kemchhobardoliquiz@gmail.com" className="text-white hover:text-yellow-400 transition-colors">
+                    kemchhobardoliquiz@gmail.com
                   </a>
                 </div>
               </div>

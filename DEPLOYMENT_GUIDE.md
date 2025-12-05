@@ -18,7 +18,7 @@ Your Bardoli Brain Battle website is a premium, fully-functional quiz competitio
 - Interactive quiz with 30-second timers per question
 - Admin can add/edit/delete questions with image support
 - Registration links to Razorpay payment gateway
-- Contact integration (Phone: +919327880168, Email: bardolitownquiz@gmail.com)
+- Contact integration (Phone: +919327880168, Email: kemchhobardoliquiz@gmail.com)
 - Beautiful animations and celebrations for quiz answers
 
 ## 🚀 **Deployment Options**
@@ -117,9 +117,9 @@ bardoli-brain-battle/
 - **Password:** `BardoliBrain2025!`
 
 ### **Contact Information:**
-- **Phone:** +919327880168
-- **Email:** bardolitownquiz@gmail.com
-- **Instagram:** @bardolitown
+- **Phone:** +919081643992
+- **Email:** kemchhobardoliquiz@gmail.com
+- **Instagram:** @kemchhobardoli_
 
 ### **Quiz Settings:**
 - **Game Date:** July 13th, 2025
@@ -129,7 +129,8 @@ bardoli-brain-battle/
 
 ## 🔗 **Important URLs**
 - **Registration:** https://docs.google.com/forms/d/e/1FAIpQLSffos5IwfCU2Mn5YG10ehXWjUM5dbaZk2Gf4Pz_klfz4BIGcw/viewform?usp=dialog
-- **Instagram:** https://instagram.com/bardolitown
+- **Instagram:** https://instagram.com/kemchhobardoli_
+
 
 ## 🎯 **Marketing Features**
 - Social sharing capabilities

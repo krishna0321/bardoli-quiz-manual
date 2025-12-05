@@ -112,9 +112,9 @@ Password: BardoliBrain2025!
 ✅ **Secure Admin Panel** for question management
 ✅ **All Policy Pages** (Terms, Privacy, Refund)
 ✅ **About Us** page with Bardoli community focus
-✅ **Contact Integration** (+919327880168, bardolitownquiz@gmail.com)
+✅ **Contact Integration** (+919327880168, kemchhobardoliquiz@gmail.com)
 ✅ **Payment Integration** (Razorpay registration)
-✅ **Instagram Integration** (@bardolitown)
+✅ **Instagram Integration** (@kemchhobardoli_)
 ✅ **Mobile Responsive** design
 ✅ **Cross-device compatibility**
 ✅ **Netlify deployment ready**

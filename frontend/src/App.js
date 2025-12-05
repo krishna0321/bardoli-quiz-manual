@@ -106,7 +106,7 @@ const FAQ = ({ question, answer }) => {
 };
 
 function HomePage() {
-  const gameDate = new Date('2025-07-13T12:00:00').getTime();
+  const gameDate = new Date('2025-12-20T12:00:00').getTime();
   const [showFloatingButton, setShowFloatingButton] = useState(false);
 
   useEffect(() => {
@@ -213,7 +213,7 @@ function HomePage() {
               <div className="flex items-center justify-center gap-3 mb-4">
                 <Calendar className="text-yellow-400" size={24} />
                 <span className="text-white font-semibold text-lg">
-                  13th July 2025 • Sunday
+                  20th December 2025 • Saturday
                 </span>
               </div>
               <div className="flex items-center justify-center gap-3 text-white/80">
@@ -419,7 +419,7 @@ function HomePage() {
                 <Instagram className="text-yellow-400" size={32} />
                 <div>
                   <h4 className="text-white font-semibold">Instagram Feature</h4>
-                  <p className="text-white/70">Top 3 featured on @BardoliTown (80K+ followers)</p>
+                  <p className="text-white/70">Top 3 featured on  @kemchhobardoli_ (34.7K followers)</p>
                 </div>
               </div>
             </div>
@@ -471,7 +471,7 @@ function HomePage() {
               {
                 icon: <Star className="text-yellow-400" size={48} />,
                 title: "Instagram Fame",
-                description: "Top 3 winners get featured on @BardoliTown's Instagram reel."
+                description: "Top 3 winners get featured on @kemchhobardoli_'s Instagram reel."
               }
             ].map((rule, index) => (
               <motion.div
@@ -500,7 +500,7 @@ function HomePage() {
               <Clock className="text-blue-900 mx-auto mb-4" size={48} />
               <h3 className="text-2xl font-bold text-blue-900 mb-2">Event Timeline</h3>
               <p className="text-blue-900/80 text-lg">
-                Sunday, July 13th, 2025<br/>
+               Saturday, December 20th, 2025<br/>
                 12:00 PM - 4:00 PM
               </p>
             </div>
@@ -571,7 +571,7 @@ function HomePage() {
               <h3 className="text-xl font-bold text-white mb-4 text-center">Or Contact Us Directly</h3>
               <div className="grid md:grid-cols-2 gap-4">
                 <motion.a
-                  href="tel:+919327880168"
+                  href="tel:+919081643992"
                   className="flex items-center justify-center gap-3 bg-green-500/20 hover:bg-green-500/30 border border-green-400/30 rounded-xl p-4 text-white transition-all duration-300"
                   whileHover={{ scale: 1.02 }}
                 >
@@ -583,14 +583,14 @@ function HomePage() {
                 </motion.a>
                 
                 <motion.a
-                  href="mailto:bardolitownquiz@gmail.com"
+                  href="mailto:kemchhobardoliquiz@gmail.com"
                   className="flex items-center justify-center gap-3 bg-blue-500/20 hover:bg-blue-500/30 border border-blue-400/30 rounded-xl p-4 text-white transition-all duration-300"
                   whileHover={{ scale: 1.02 }}
                 >
                   <span className="text-2xl">📧</span>
                   <div>
                     <div className="font-semibold">Email Us</div>
-                    <div className="text-blue-400">bardolitownquiz@gmail.com</div>
+                    <div className="text-blue-400">kemchhobardoliquiz@gmail.com</div>
                   </div>
                 </motion.a>
               </div>
@@ -678,7 +678,8 @@ function HomePage() {
               <div className="flex justify-center items-center gap-4 mb-6">
                 <span className="text-white/80 text-lg">Follow us on:</span>
                 <motion.a
-                  href="https://instagram.com/bardolitown"
+                  href="https://instagram.com/kemchhobardoli_
+"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="bg-gradient-to-r from-purple-500 to-pink-500 hover:from-purple-600 hover:to-pink-600 text-white p-3 rounded-full transition-all duration-300 flex items-center gap-2"
@@ -686,7 +687,7 @@ function HomePage() {
                   whileTap={{ scale: 0.9 }}
                 >
                   <Instagram size={24} />
-                  <span className="hidden sm:inline font-semibold">@bardolitown</span>
+                  <span className="hidden sm:inline font-semibold">@kemchhobardoli_</span>
                 </motion.a>
               </div>
               

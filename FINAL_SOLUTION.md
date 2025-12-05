@@ -7,9 +7,9 @@
 ✅ **Live countdown timer** to July 13th, 2025 
 ✅ **Interactive quiz system** with 30-second timers and scoring
 ✅ **Admin dashboard** for question management
-✅ **All contact integration** (+919327880168, bardolitownquiz@gmail.com)
+✅ **All contact integration** (+919327880168, kemchhobardoliquiz@gmail.com)
 ✅ **Razorpay payment integration** for registration
-✅ **Instagram integration** (@bardolitown)
+✅ **Instagram integration** (@kemchhobardoli)
 ✅ **Policy pages** (Terms, Privacy, Refund)
 ✅ **About Us** page showcasing Bardoli community
 ✅ **Mobile-responsive design** with premium animations
@@ -44,9 +44,9 @@ npm start
 
 ## 🔧 KEY CREDENTIALS:
 - **Admin Login:** bardoliadmin / BardoliBrain2025!
-- **Phone:** +919327880168
-- **Email:** bardolitownquiz@gmail.com
-- **Instagram:** @bardolitown
+- **Phone:** +919081643992
+- **Email:** kemchhobardoliquiz@gmail.com
+- **Instagram:** @kemchhobardoli_
 - **Registration:** https://docs.google.com/forms/d/e/1FAIpQLSffos5IwfCU2Mn5YG10ehXWjUM5dbaZk2Gf4Pz_klfz4BIGcw/viewform?usp=dialog
 
 ## 📁 COMPLETE FILE STRUCTURE:

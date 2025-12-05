@@ -33,9 +33,9 @@ yarn build
 
 ## 📱 Contact Information
 
-- **Phone:** +919327880168
-- **Email:** bardolitownquiz@gmail.com
-- **Instagram:** @bardolitown
+- **Phone:** +919081643992
+- **Email:** kemchhobardoliquiz@gmail.com
+- **Instagram:** @kemchhobardoli_
 
 ## 🎯 Competition Details
 
