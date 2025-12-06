@@ -121,7 +121,7 @@ function HomePage() {
   const faqs = [
     {
       question: "How will I get the quiz link?",
-      answer: "After successful registration, you'll receive the quiz link via WhatsApp app 1 hour before the event starts (11:00 AM on December 20th."
+      answer: "After successful registration, you'll receive the quiz link via WhatsApp app 1 hour before the event starts (12:00 PM on December 20th."
     },
     {
       question: "Can I use the internet during the quiz?",
@@ -419,8 +419,7 @@ function HomePage() {
                 <Instagram className="text-yellow-400" size={32} />
                 <div>
                   <h4 className="text-white font-semibold">Instagram Feature</h4>
-                  <p className="text-white/70">Top 3 featured on  @kemchhobardoli_ (reach 600k)
-</p>
+                  <p className="text-white/70">Top 3 featured on  @kemchhobardoli_ (600k+ Average Reach)</p>
                 </div>
               </div>
             </div>
