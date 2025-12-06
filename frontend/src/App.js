@@ -121,7 +121,7 @@ function HomePage() {
   const faqs = [
     {
       question: "How will I get the quiz link?",
-      answer: "After successful registration, you'll receive the quiz link via WhatsApp app 1 hour before the event starts (12:00 PM on December 20th."
+      answer: "After successful registration, you'll receive the quiz link via WhatsApp when the event starts (12:00 PM on December 20th)."
     },
     {
       question: "Can I use the internet during the quiz?",
