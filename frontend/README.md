@@ -34,15 +34,15 @@ yarn build
 ## 📱 Contact Information
 
 - **Phone:** +919081643992
-- **Email:** kemchhobardoliquiz@gmail.com
+- **Email:** bardolitownquiz@gmail.com
 - **Instagram:** @kemchhobardoli_
 
 ## 🎯 Competition Details
 
-- **Date:** July 13th, 2025
+- **Date:**  December 20th, 2025
 - **Time:** 12:00 PM - 4:00 PM  
-- **Prize Pool:** ₹4,000
-- **Registration:** ₹30
+- **Prize Pool:** ₹15,000
+- **Registration:**  ₹199
 
 ## 🌐 Deployment
 

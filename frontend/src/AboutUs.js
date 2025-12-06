@@ -296,9 +296,9 @@ const AboutUs = () => {
 
           <div className="grid md:grid-cols-4 gap-8">
             {[
-              { number: "80K+", label: "Instagram Followers", desc: "@kemchhobardoli_ community" },
+              { number: "34K+", label: "Instagram Followers", desc: "@kemchhobardoli_ community" },
               { number: "500+", label: "Expected Participants", desc: "In our inaugural event" },
-              { number: "₹4,000", label: "Prize Pool", desc: "Rewarding excellence" },
+              { number: "₹15,000", label: "Prize Pool", desc: "Rewarding excellence" },
               { number: "100%", label: "Community Focus", desc: "Local pride, global thinking" }
             ].map((stat, index) => (
               <motion.div
@@ -349,7 +349,7 @@ const AboutUs = () => {
               </motion.a>
               
               <motion.a
-                href="mailto:kemchhobardoliquiz@gmail.com"
+                href="mailto:bardolitownquiz@gmail.com"
                 className="bg-blue-500/20 backdrop-blur-md hover:bg-blue-500/30 text-white font-bold py-4 px-8 rounded-xl text-lg border border-blue-400/30 transition-all duration-300 flex items-center gap-3"
                 whileHover={{ y: -2 }}
                 whileTap={{ scale: 0.98 }}
@@ -384,8 +384,8 @@ const AboutUs = () => {
                 </div>
                 <div className="space-y-2">
                   <div className="text-yellow-400 font-semibold">📧 Email</div>
-                  <a href="mailto:kemchhobardoliquiz@gmail.com" className="text-white hover:text-yellow-400 transition-colors">
-                    kemchhobardoliquiz@gmail.com
+                  <a href="mailto:bardolitownquiz@gmail.com" className="text-white hover:text-yellow-400 transition-colors">
+                    bardolitownquiz@gmail.com
                   </a>
                 </div>
               </div>

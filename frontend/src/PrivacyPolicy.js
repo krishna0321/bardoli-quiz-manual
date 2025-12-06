@@ -151,10 +151,10 @@ const PrivacyPolicy = () => {
                   <p className="text-white/80">
                     You may request access to, or deletion of, your data by emailing{' '}
                     <a 
-                      href="mailto:kemchhobardoliquiz@gmail.com" 
+                      href="mailto:bardolitownquiz@gmail.com" 
                       className="text-green-400 hover:text-green-300 underline font-semibold"
                     >
-                      kemchhobardoliquiz@gmail.com
+                      bardolitownquiz@gmail.com
                     </a>
                   </p>
                 </motion.div>
@@ -173,10 +173,10 @@ const PrivacyPolicy = () => {
                   <p className="text-white/80">
                     If you have any questions about this Privacy Policy, please contact us at{' '}
                     <a 
-                      href="mailto:kemchhobardoliquiz@gmail.com" 
+                      href="mailto:bardolitownquiz@gmail.com" 
                       className="text-yellow-400 hover:text-yellow-300 underline font-semibold"
                     >
-                      kemchhobardoliquiz@gmail.com
+                      bardolitownquiz@gmail.com
                     </a>
                   </p>
                 </motion.div>

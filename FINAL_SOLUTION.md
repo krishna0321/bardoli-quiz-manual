@@ -4,10 +4,10 @@
 ## 📦 WHAT YOU HAVE (100% COMPLETE):
 
 ✅ **Professional Quiz Competition Website**
-✅ **Live countdown timer** to July 13th, 2025 
+✅ **Live countdown timer** to  December 20th, 2025 
 ✅ **Interactive quiz system** with 30-second timers and scoring
 ✅ **Admin dashboard** for question management
-✅ **All contact integration** (+919327880168, kemchhobardoliquiz@gmail.com)
+✅ **All contact integration** (+919327880168, bardolitownquiz@gmail.com)
 ✅ **Razorpay payment integration** for registration
 ✅ **Instagram integration** (@kemchhobardoli)
 ✅ **Policy pages** (Terms, Privacy, Refund)
@@ -45,7 +45,7 @@ npm start
 ## 🔧 KEY CREDENTIALS:
 - **Admin Login:** bardoliadmin / BardoliBrain2025!
 - **Phone:** +919081643992
-- **Email:** kemchhobardoliquiz@gmail.com
+- **Email:** bardolitownquiz@gmail.com
 - **Instagram:** @kemchhobardoli_
 - **Registration:** https://docs.google.com/forms/d/e/1FAIpQLSffos5IwfCU2Mn5YG10ehXWjUM5dbaZk2Gf4Pz_klfz4BIGcw/viewform?usp=dialog
 

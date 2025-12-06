@@ -73,7 +73,7 @@ const CancellationRefund = () => {
                     <h3 className="text-2xl font-bold text-white">No Refunds</h3>
                   </div>
                   <p className="text-white/80 leading-relaxed">
-                    Once registration is completed and payment is made (<strong className="text-yellow-400">₹30</strong>), 
+                    Once registration is completed and payment is made (<strong className="text-yellow-400"> ₹199</strong>), 
                     no refunds will be issued under any circumstances — including no-shows, late submissions, 
                     or technical difficulties on the participant's end.
                   </p>
@@ -91,7 +91,7 @@ const CancellationRefund = () => {
                     <h3 className="text-2xl font-bold text-white">Registration Fee</h3>
                   </div>
                   <div className="text-center">
-                    <div className="text-6xl font-black text-yellow-400 mb-2">₹30</div>
+                    <div className="text-6xl font-black text-yellow-400 mb-2"> ₹199</div>
                     <p className="text-white/80">
                       One-time registration fee for Bardoli Brain Battle
                     </p>
@@ -194,10 +194,10 @@ const CancellationRefund = () => {
                   <p className="text-white/80">
                     For any questions regarding this policy, please contact us at{' '}
                     <a 
-                      href="mailto:kemchhobardoliquiz@gmail.com" 
+                      href="mailto:bardolitownquiz@gmail.com" 
                       className="text-green-400 hover:text-green-300 underline font-semibold"
                     >
-                      kemchhobardoliquiz@gmail.com
+                      bardolitownquiz@gmail.com
                     </a>
                   </p>
                 </motion.div>

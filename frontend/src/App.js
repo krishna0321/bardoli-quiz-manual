@@ -121,7 +121,7 @@ function HomePage() {
   const faqs = [
     {
       question: "How will I get the quiz link?",
-      answer: "After successful registration, you'll receive the quiz link via email 1 hour before the event starts (11:00 AM on July 13th)."
+      answer: "After successful registration, you'll receive the quiz link via WhatsApp app 1 hour before the event starts (11:00 AM on December 20th."
     },
     {
       question: "Can I use the internet during the quiz?",
@@ -378,9 +378,9 @@ function HomePage() {
 
           <div className="grid md:grid-cols-3 gap-8 mb-12">
             {[
-              { place: '1st', amount: '₹2,000', icon: '🥇', color: 'from-yellow-500 to-yellow-600' },
-              { place: '2nd', amount: '₹1,500', icon: '🥈', color: 'from-gray-400 to-gray-500' },
-              { place: '3rd', amount: '₹500', icon: '🥉', color: 'from-amber-600 to-amber-700' }
+              { place: '1st', amount: '₹8,000', icon: '🥇', color: 'from-yellow-500 to-yellow-600' },
+              { place: '2nd', amount: '₹5,000', icon: '🥈', color: 'from-gray-400 to-gray-500' },
+              { place: '3rd', amount: '₹2,000', icon: '🥉', color: 'from-amber-600 to-amber-700' }
             ].map((prize, index) => (
               <motion.div
                 key={index}
@@ -411,7 +411,7 @@ function HomePage() {
               <div className="flex items-center gap-4">
                 <Gift className="text-yellow-400" size={32} />
                 <div>
-                  <h4 className="text-white font-semibold">Free Local Coupons</h4>
+                  <h4 className="text-white font-semibold">Free Interactive Quiz</h4>
                   <p className="text-white/70">For early registrants</p>
                 </div>
               </div>
@@ -419,7 +419,8 @@ function HomePage() {
                 <Instagram className="text-yellow-400" size={32} />
                 <div>
                   <h4 className="text-white font-semibold">Instagram Feature</h4>
-                  <p className="text-white/70">Top 3 featured on  @kemchhobardoli_ (34.7K followers)</p>
+                  <p className="text-white/70">Top 3 featured on  @kemchhobardoli_ (reach 600k)
+</p>
                 </div>
               </div>
             </div>
@@ -583,14 +584,14 @@ function HomePage() {
                 </motion.a>
                 
                 <motion.a
-                  href="mailto:kemchhobardoliquiz@gmail.com"
+                  href="mailto:bardolitownquiz@gmail.com"
                   className="flex items-center justify-center gap-3 bg-blue-500/20 hover:bg-blue-500/30 border border-blue-400/30 rounded-xl p-4 text-white transition-all duration-300"
                   whileHover={{ scale: 1.02 }}
                 >
                   <span className="text-2xl">📧</span>
                   <div>
                     <div className="font-semibold">Email Us</div>
-                    <div className="text-blue-400">kemchhobardoliquiz@gmail.com</div>
+                    <div className="text-blue-400">bardolitownquiz@gmail.com</div>
                   </div>
                 </motion.a>
               </div>

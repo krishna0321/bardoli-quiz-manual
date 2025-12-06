@@ -125,7 +125,7 @@ const TermsConditions = () => {
                     <h3 className="text-2xl font-bold text-white">Submission Timing</h3>
                   </div>
                   <p className="text-white/80">
-                    Submissions will be accepted only between <strong className="text-yellow-400">12:00 PM and 4:00 PM on 13th July 2025</strong>. Entries submitted after the deadline will not be considered.
+                    Submissions will be accepted only between <strong className="text-yellow-400">12:00 PM and 4:00 PM on 20th December 2025 </strong>. Entries submitted after the deadline will not be considered.
                   </p>
                 </motion.div>
 
@@ -161,15 +161,15 @@ const TermsConditions = () => {
                     <div className="grid md:grid-cols-3 gap-4">
                       <div className="text-center bg-white/10 rounded-lg p-4">
                         <div className="text-3xl mb-2">🥇</div>
-                        <div className="text-yellow-400 font-bold text-xl">₹2,000</div>
+                        <div className="text-yellow-400 font-bold text-xl">₹8,000</div>
                       </div>
                       <div className="text-center bg-white/10 rounded-lg p-4">
                         <div className="text-3xl mb-2">🥈</div>
-                        <div className="text-yellow-400 font-bold text-xl">₹1,500</div>
+                        <div className="text-yellow-400 font-bold text-xl">₹5,000</div>
                       </div>
                       <div className="text-center bg-white/10 rounded-lg p-4">
                         <div className="text-3xl mb-2">🥉</div>
-                        <div className="text-yellow-400 font-bold text-xl">₹500</div>
+                        <div className="text-yellow-400 font-bold text-xl">₹2,000</div>
                       </div>
                     </div>
                     <p className="text-white/80 mt-4">

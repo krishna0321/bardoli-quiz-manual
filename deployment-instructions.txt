@@ -41,12 +41,12 @@ Since the preview platform isn't working, here are 3 EASY ways to get your websi
 🎯 WHAT YOU GET:
 ================
 ✅ Professional quiz competition website
-✅ Live countdown timer to July 13th, 2025
+✅ Live countdown timer to  December 20th, 2025
 ✅ Interactive quiz system with scoring
 ✅ Admin dashboard (bardoliadmin / BardoliBrain2025!)
 ✅ All policy pages (Terms, Privacy, Refund)
 ✅ About Us page showcasing Bardoli community
-✅ Contact integration (+919327880168, kemchhobardoliquiz@gmail.com)
+✅ Contact integration (+919327880168, bardolitownquiz@gmail.com)
 ✅ Razorpay payment integration for registration
 ✅ Instagram social media integration (@kemchhobardoli_)
 ✅ Mobile-responsive design
@@ -63,7 +63,7 @@ Since the preview platform isn't working, here are 3 EASY ways to get your websi
 📱 CONTACT INFO CONFIGURED:
 ===========================
 - Phone: +919081643992
-- Email: kemchhobardoliquiz@gmail.com
+- Email: bardolitownquiz@gmail.com
 - Instagram: @kemchhobardoli
 - Registration: https://docs.google.com/forms/d/e/1FAIpQLSffos5IwfCU2Mn5YG10ehXWjUM5dbaZk2Gf4Pz_klfz4BIGcw/viewform?usp=dialog
 
@@ -80,4 +80,4 @@ Everything is professionally built and will work perfectly when deployed.
 4. Share with Bardoli community
 5. Start promoting your quiz competition!
 
-For help: kemchhobardoliquiz@gmail.com
+For help: bardolitownquiz@gmail.com
