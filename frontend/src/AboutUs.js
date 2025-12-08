@@ -379,7 +379,7 @@ const AboutUs = () => {
                 <div className="space-y-2">
                   <div className="text-yellow-400 font-semibold">📞 Phone</div>
                   <a href="tel:+919081643992" className="text-white hover:text-yellow-400 transition-colors">
-                    +91 90816 43992
+                    +918320754038
                   </a>
                 </div>
                 <div className="space-y-2">

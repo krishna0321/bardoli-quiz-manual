@@ -578,7 +578,7 @@ function HomePage() {
                   <span className="text-2xl">📞</span>
                   <div>
                     <div className="font-semibold">Call Us</div>
-                    <div className="text-green-400">+91 93278 80168</div>
+                    <div className="text-green-400">+91 83207 54038</div>
                   </div>
                 </motion.a>
                 

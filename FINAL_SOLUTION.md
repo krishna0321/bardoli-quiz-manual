@@ -7,7 +7,7 @@
 ✅ **Live countdown timer** to  December 20th, 2025 
 ✅ **Interactive quiz system** with 30-second timers and scoring
 ✅ **Admin dashboard** for question management
-✅ **All contact integration** (+919327880168, bardolitownquiz@gmail.com)
+✅ **All contact integration** (+918320754038, bardolitownquiz@gmail.com)
 ✅ **Razorpay payment integration** for registration
 ✅ **Instagram integration** (@kemchhobardoli)
 ✅ **Policy pages** (Terms, Privacy, Refund)

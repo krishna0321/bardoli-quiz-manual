@@ -18,7 +18,7 @@ Your Bardoli Brain Battle website is a premium, fully-functional quiz competitio
 - Interactive quiz with 30-second timers per question
 - Admin can add/edit/delete questions with image support
 - Registration links to Razorpay payment gateway
-- Contact integration (Phone: +919327880168, Email: bardolitownquiz@gmail.com)
+- Contact integration (Phone: +918320754038, Email: bardolitownquiz@gmail.com)
 - Beautiful animations and celebrations for quiz answers
 
 ## 🚀 **Deployment Options**
