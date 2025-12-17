@@ -106,7 +106,7 @@ const FAQ = ({ question, answer }) => {
 };
 
 function HomePage() {
-  const gameDate = new Date('2025-12-20T12:00:00').getTime();
+  const gameDate = new Date('2025-12-27T12:00:00').getTime();
   const [showFloatingButton, setShowFloatingButton] = useState(false);
 
   useEffect(() => {
@@ -213,7 +213,7 @@ function HomePage() {
               <div className="flex items-center justify-center gap-3 mb-4">
                 <Calendar className="text-yellow-400" size={24} />
                 <span className="text-white font-semibold text-lg">
-                  20th December 2025 • Saturday
+                  27th December 2025 • Saturday
                 </span>
               </div>
               <div className="flex items-center justify-center gap-3 text-white/80">
@@ -500,7 +500,7 @@ function HomePage() {
               <Clock className="text-blue-900 mx-auto mb-4" size={48} />
               <h3 className="text-2xl font-bold text-blue-900 mb-2">Event Timeline</h3>
               <p className="text-blue-900/80 text-lg">
-               Saturday, December 20th, 2025<br/>
+               Saturday, December 27th, 2025<br/>
                 12:00 PM - 4:00 PM
               </p>
             </div>

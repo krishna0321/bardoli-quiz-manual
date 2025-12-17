@@ -125,7 +125,7 @@ const TermsConditions = () => {
                     <h3 className="text-2xl font-bold text-white">Submission Timing</h3>
                   </div>
                   <p className="text-white/80">
-                    Submissions will be accepted only between <strong className="text-yellow-400">12:00 PM and 4:00 PM on 20th December 2025 </strong>. Entries submitted after the deadline will not be considered.
+                    Submissions will be accepted only between <strong className="text-yellow-400">12:00 PM and 4:00 PM on 27th December 2025 </strong>. Entries submitted after the deadline will not be considered.
                   </p>
                 </motion.div>
 

@@ -129,4 +129,4 @@ Your Bardoli Brain Battle website is ready for immediate deployment with all iss
 4. **Test admin panel**
 5. **Share with community**
 
-**All problems fixed - Ready for  December 20th competition!** 🏆
+**All problems fixed - Ready for  December 27th competition!** 🏆

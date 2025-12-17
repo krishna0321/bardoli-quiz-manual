@@ -14,7 +14,7 @@ Your Bardoli Brain Battle website is a premium, fully-functional quiz competitio
 - **Social Media Integration** (Instagram, Phone, Email)
 
 ### 🎯 **Key Functionality:**
-- Live countdown to  December 20th, 2025 (Game Day)
+- Live countdown to  December 27th, 2025 (Game Day)
 - Interactive quiz with 30-second timers per question
 - Admin can add/edit/delete questions with image support
 - Registration links to Razorpay payment gateway
@@ -122,7 +122,7 @@ bardoli-brain-battle/
 - **Instagram:** @kemchhobardoli_
 
 ### **Quiz Settings:**
-- **Game Date:**  December 20th, 2025
+- **Game Date:**  December 27th, 2025
 - **Time:** 12:00 PM - 4:00 PM
 - **Prize Pool:** ₹15,000 (₹8,000 + ₹5,000 + ₹2,000)
 - **Registration Fee:**  ₹199

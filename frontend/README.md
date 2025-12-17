@@ -39,7 +39,7 @@ yarn build
 
 ## 🎯 Competition Details
 
-- **Date:**  December 20th, 2025
+- **Date:**  December 27th, 2025
 - **Time:** 12:00 PM - 4:00 PM  
 - **Prize Pool:** ₹15,000
 - **Registration:**  ₹199

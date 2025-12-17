@@ -130,7 +130,7 @@ Admin adds 20 questions:
 - No need to refresh or restart
 - Seamless user experience
 
-## 🎉 **READY FOR  December 20th COMPETITION:**
+## 🎉 **READY FOR  December 27th COMPETITION:**
 
 **Your dynamic quiz system now supports:**
 - ✅ **Any question count** (1-20) as admin decides
